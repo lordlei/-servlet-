@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="StoreOnline">
+    <output-path>D:/Tomcat/apache-tomcat-7.0.81/webapps/StoreOnline</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="StoreOnline/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="StoreOnline" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
